@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\SwyftBank",
+    "\\SwyftBank\\Swyft.Core",
+    "\\SwyftBank\\Swyft.Core\\Models"
+  ],
+  "SelectedNode": "\\SwyftBank\\Swyft.Core\\Models\\User.cs",
+  "PreviewInSolutionExplorer": false
+}

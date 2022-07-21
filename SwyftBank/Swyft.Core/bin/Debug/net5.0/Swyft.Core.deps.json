@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Swyft.Core/1.0.0": {
+        "dependencies": {
+          "Swyft.Utility": "1.0.0"
+        },
+        "runtime": {
+          "Swyft.Core.dll": {}
+        }
+      },
+      "Swyft.Utility/1.0.0": {
+        "runtime": {
+          "Swyft.Utility.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Swyft.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Swyft.Utility/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
